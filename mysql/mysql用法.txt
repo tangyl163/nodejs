@@ -483,3 +483,6 @@ Wed Sep 11 2013 15:32:30 GMT+0800 (中国标准时间)
 Wed Sep 11 2013 15:32:35 GMT+0800 (中国标准时间)
 [ { Variable_name: 'wait_timeout', Value: '10' } ]
 连接池，已经解决了自动重连的问题了，后面我们的开发，可以尽量使用pooling的方式。
+
+
+http://blog.fens.me/nodejs-mysql-intro/
